@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#19B0F4"
+    android:padding="10dp"
+    tools:context=".loading">
+
+    <ProgressBar
+        android:id="@+id/bar_tot"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:progress="0"
+        android:progressBackgroundTint="@color/white"
+        android:progressTint="@color/white"
+        android:visibility="visible" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="289dp"
+        android:text="Loading"
+        android:textColor="@color/white"
+        android:textSize="26dp">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="386dp"
+        android:text="Getting data from Github"
+        android:textColor="@color/white"
+        android:textSize="26dp">
+
+    </TextView>
+
+</RelativeLayout>

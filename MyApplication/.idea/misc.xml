@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/acrivity_loading.xml" value="0.18802083333333333" />
+        <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/activity_loading.xml" value="0.386096256684492" />
+        <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/repository_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/users_list_view_layout.xml" value="0.18802083333333333" />
+        <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/view_loading_dialog.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
