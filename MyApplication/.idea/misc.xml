@@ -3,6 +3,15 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/drawable/button.xml" value="0.2095" />
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/drawable/gradient_background.xml" value="0.2095" />
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/drawable/info_btn.xml" value="0.196" />
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/layout/activity_camerasql.xml" value="0.18034447821681865" />
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/layout/activity_loading.xml" value="0.18802083333333333" />
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/layout/activity_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/layout/start.xml" value="0.36666666666666664" />
+        <entry key="..\:/github/MochYasinAbdillah_UAS/MyApplication/app/src/main/res/layout/users_list_view_layout.xml" value="0.36666666666666664" />
         <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/acrivity_loading.xml" value="0.18802083333333333" />
         <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/activity_loading.xml" value="0.386096256684492" />
         <entry key="..\:/github/Pertemuan11_ascy/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.5" />
